@@ -1,0 +1,8 @@
+---
+name: armo
+title: "Kubescape"
+version: "1.0.0"
+maintainer: "Kubescape Authors"
+description: Kubescape detects security and devops misconfigurations in a Kubernetes cluster
+url: https://github.com/armosec/kubescape
+category: security
